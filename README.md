@@ -26,7 +26,7 @@ Note: if you are getting strange build errors make sure that the project configu
 - Init with League home dir as parameter
 <pre><code>const LeagueConnector conn{L"D:\\Games\\League of Legends"};
 std::cout << conn;</code></pre>
-- Init without parameters (will retrieve path from game process)
+- Init without parameters (will retrieve path from client process)
 <pre><code>const LeagueConnector conn;
 std::cout << conn;</code></pre>
 - How I use it (Aram boost)
@@ -57,4 +57,5 @@ std::cout << conn;</code></pre>
 }</code></pre>
 
 - Output
+<br>
 ![console output img](https://i.imgur.com/ywUDYx8.png)
