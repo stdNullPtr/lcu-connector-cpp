@@ -57,5 +57,4 @@ std::cout << conn;</code></pre>
 }</code></pre>
 
 - Output
-<br>
 ![console output img](https://i.imgur.com/ywUDYx8.png)
