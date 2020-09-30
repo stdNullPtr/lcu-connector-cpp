@@ -1,1 +1,1 @@
-# lcu-connector-cpp 
+# LCU Connector
