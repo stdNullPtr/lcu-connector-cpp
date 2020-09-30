@@ -2,7 +2,7 @@
 
 Inspired by [Pipix's lcu connector](https://github.com/Pupix/lcu-connector)\
 The connector parses the credentials from the lockfile for the API\
-Make sure you check out the [API reference](https://riot-api-liaries.readthedocs.io/en/latest/lcu.html)\
+Make sure you check out the [API reference](https://riot-api-liaries.readthedocs.io/en/latest/lcu.html)
 
 #### Features
 - Upon initialization you can either provide League of Legends installation directory to the constructor - or leave it empty and just launch league client.
